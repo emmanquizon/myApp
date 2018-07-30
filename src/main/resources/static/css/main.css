@@ -1,0 +1,12 @@
+
+.historyTable{
+	width: 100%;
+}
+
+.historyTable th{
+	width: 50%;
+}
+
+.historyTable td{
+	font-size: 12px;
+}
